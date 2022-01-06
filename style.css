@@ -1,0 +1,128 @@
+
+.mission-22{
+    display: flex;
+}
+
+span{
+    color: rgb(116, 5, 131);
+}
+
+.border{
+    border-left: 3px solid skyblue;
+    padding-left: 6px;
+}
+.border h1{
+    font-family: 'Roboto Slab', serif;
+    font-size: 40px;
+}
+.mission-1{
+    width: 50%;    
+    margin-left: 5%;
+    margin-right: 5%;
+}
+#explore{
+    padding-top: 30px;
+    margin-top: 40px;
+    
+}
+#image-1 img{
+    height: 400px;
+    width: auto;
+}
+.para{
+    padding: 10px 5px;
+    margin-right: 150px;
+}
+.btn{
+    text-decoration: none;
+    background-color: skyblue;
+    padding: 8px 30px;
+    font-size: 18px;
+    border-radius: 2px;
+}
+small{
+    margin-top: 10px;
+}
+
+.pressure h1{
+    font-family: 'Roboto Slab', serif;
+    text-align: center;
+    font-size: 40px;
+    font-weight: 700;
+}
+
+.pre-1{
+    display: flex;
+    margin: 0 220px ;
+}
+.icon-img{
+    height: 150px;
+    width: auto;
+}
+.pre{
+    
+    height: 300px;
+    width: 500px;
+    margin: 10px;
+    padding: 20px;
+    border-radius: 10px;
+}
+
+#bc-1{
+    background-color: cornflowerblue;
+}
+#bc-2{
+    background-color: chocolate;
+}
+#bc-3{
+    background-color: cyan;
+}
+#doc-img{
+    height: 300px;
+    width: auto;
+}
+
+.my-doc{
+    display: flex;
+    margin: 30px;
+}
+.doc-1{
+    margin-left: 70px;
+}
+.doc-1 h1{
+    font-family: 'Roboto Slab', serif;
+    font-size: 30px;
+}
+#document{
+    width: 40%;
+}
+#doc-img2{
+    height: 300px;
+    width: auto;
+    margin-left: 50px;
+}
+.exiting{
+    text-align: center;
+    font-size: 30px;
+}
+.exiting h1{
+    color: brown;
+}
+
+.footer{
+    height: 150px;
+    width: 100%;
+    background-color: black;
+    padding-top: 30px;
+}
+.footer h2{
+    font-family: 'Vujahday Script', cursive;
+    color: rgb(253, 253, 253);
+    text-align: center;
+}
+.footer p{
+    color: rgb(253, 253, 253);
+    text-align: center;
+}
+
+
